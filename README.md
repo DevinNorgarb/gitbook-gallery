@@ -1,4 +1,18 @@
-# 🏄‍♀️ Shoreline
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# Shoreline
 
 <figure><img src=".gitbook/assets/DJI_20240523174102_0033_D.JPG" alt=""><figcaption></figcaption></figure>
 
