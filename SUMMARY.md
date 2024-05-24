@@ -1,10 +1,11 @@
 # Table of contents
 
-## Drone Photos
+## Gallery
 
-* [Shoreline](README.md)
-* [Night](drone-photos/night.md)
-* [Panoramic](drone-photos/panoramic.md)
-* [Steenbras Damn](drone-photos/steenbras-damn.md)
-* [Sunset](drone-photos/sunset.md)
-* [Table Mountain](drone-photos/table-mountain.md)
+* [Drone](README.md)
+  * [Shoreline](gallery/drone/shoreline.md)
+  * [Night](gallery/drone/night.md)
+  * [Panoramic](gallery/drone/panoramic.md)
+  * [Steenbras Damn](gallery/drone/steenbras-damn.md)
+  * [Sunset](gallery/drone/sunset.md)
+  * [Table Mountain](gallery/drone/table-mountain.md)
