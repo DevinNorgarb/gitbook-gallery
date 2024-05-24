@@ -1,4 +1,4 @@
-# Surf & Turf
+# 🏄‍♀️ Shoreline
 
 <figure><img src=".gitbook/assets/DJI_20240523174102_0033_D.JPG" alt=""><figcaption></figcaption></figure>
 
