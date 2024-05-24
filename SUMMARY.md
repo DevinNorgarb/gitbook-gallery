@@ -7,3 +7,4 @@
 * [Panoramic](drone-photos/panoramic.md)
 * [Steenbras Damn](drone-photos/steenbras-damn.md)
 * [Sunset](drone-photos/sunset.md)
+* [Table Mountain](drone-photos/table-mountain.md)
