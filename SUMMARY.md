@@ -2,7 +2,7 @@
 
 ## Drone Photos
 
-* [🏄‍♀️ Shoreline](README.md)
+* [Shoreline](README.md)
 * [Night](drone-photos/night.md)
 * [Panoramic](drone-photos/panoramic.md)
 * [Steenbras Damn](drone-photos/steenbras-damn.md)
