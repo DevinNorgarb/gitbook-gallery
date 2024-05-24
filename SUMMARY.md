@@ -2,7 +2,8 @@
 
 ## Drone Photos
 
-* [Night](README.md)
+* [Surf & Turf](README.md)
+* [Night](<README (1).md>)
 * [Panoramic](drone-photos/panoramic.md)
 * [Steenbras Damn](drone-photos/steenbras-damn.md)
 * [Sunset](drone-photos/sunset.md)
