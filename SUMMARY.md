@@ -1,3 +1,6 @@
 # Table of contents
 
-* [Drone](README.md)
+## Drone Photos
+
+* [Night](README.md)
+* [Panoramic](drone-photos/panoramic.md)
