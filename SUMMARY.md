@@ -2,7 +2,8 @@
 
 ## Gallery
 
-* [Shoreline](README.md)
+* [Clouds](README.md)
+* [Shoreline](<README (1).md>)
 * [Night](gallery/drone/night.md)
 * [Panoramic](gallery/drone/panoramic.md)
 * [Steenbras Damn](gallery/drone/steenbras-damn.md)
