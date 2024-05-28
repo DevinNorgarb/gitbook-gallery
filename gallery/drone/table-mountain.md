@@ -30,4 +30,6 @@ layout:
 
 <figure><img src="../../.gitbook/assets/dji_fly_20231004_182022_110_1696442734246_pano_optimized.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/dji_fly_20231018_194322_175_1697651382651_pano_optimized.jpg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/dji_fly_20231003_190432_103_1696442771041_pano_optimized.jpg" alt=""><figcaption></figcaption></figure>
