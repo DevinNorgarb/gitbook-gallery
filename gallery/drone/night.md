@@ -20,3 +20,11 @@ coverY: 0
 <figure><img src="../../.gitbook/assets/DJI_20240523015515_0015_D.JPG" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/DJI_0004.DNG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/DJI_0139 Large.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/DJI_0155.JPG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/DJI_0135 Large.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/DJI_0107 Large.png" alt=""><figcaption></figcaption></figure>
