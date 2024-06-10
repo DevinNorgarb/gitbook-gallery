@@ -19,16 +19,50 @@ layout:
 
 # Sunset
 
+<div data-full-width="true">
+
+<figure><img src="../../.gitbook/assets/DJI_20240609174213_0025_D.JPG" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div data-full-width="true">
+
 <figure><img src="../../.gitbook/assets/DJI_20240523174950_0040_D.JPG" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div data-full-width="true">
 
 <figure><img src="../../.gitbook/assets/DJI_20240523175024_0041_D.JPG" alt=""><figcaption></figcaption></figure>
 
+</div>
+
+<div data-full-width="true">
+
 <figure><img src="../../.gitbook/assets/dji_export_20231017_173102_1697556662630_sphere_screenshot (1).jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div data-full-width="true">
 
 <figure><img src="../../.gitbook/assets/dji_export_20231017_173110_1697556670279_sphere_screenshot.jpg" alt=""><figcaption></figcaption></figure>
 
+</div>
+
+<div data-full-width="true">
+
 <figure><img src="../../.gitbook/assets/dji_export_20231017_173110_1697556670279_sphere_screenshot (1) (2).jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div data-full-width="true">
 
 <figure><img src="../../.gitbook/assets/dji_export_20231017_173058_1697556658037_sphere_screenshot (2).jpg" alt=""><figcaption></figcaption></figure>
 
+</div>
+
+<div data-full-width="true">
+
 <figure><img src="../../.gitbook/assets/dji_export_20231017_173049_1697556649011_sphere_screenshot (1).jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
