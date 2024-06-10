@@ -19,7 +19,9 @@ layout:
 
 # Panoramic
 
+<figure><img src="../../.gitbook/assets/DJI_20240609174929_0035_D copy.JPG" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/DJI_20240610162949_0066_D.JPG" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/dji_fly_20231204_200348_119_1702057848963_pano_optimized.jpg" alt=""><figcaption></figcaption></figure>
 
